@@ -7,5 +7,5 @@
 
 
 
-<img align="center" alt="coding" width="1200" src="https://media.licdn.com/dms/image/D4D16AQGVVUFTa6e6nQ/profile-displaybackgroundimage-shrink_200_800/0/1706759827265?e=2147483647&v=beta&t=wtW1pD27ivUiMgU3Dae3Hy-0khOnn24kb9hrV828jFU">
+<img align="center" alt="coding" width="1300" src="https://media.licdn.com/dms/image/D4D16AQGVVUFTa6e6nQ/profile-displaybackgroundimage-shrink_200_800/0/1706759827265?e=2147483647&v=beta&t=wtW1pD27ivUiMgU3Dae3Hy-0khOnn24kb9hrV828jFU">
 <br>
