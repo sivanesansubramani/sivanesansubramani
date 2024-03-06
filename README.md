@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sivanesan</h1>
 <h3 align="center">A passionate .Net Full Stack Developer</h3>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/sivanesan-s-6b515a287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sivanesan-s-6b515a287" height="30" width="40" /></a>
+<p>I am an experienced developer with a solid background in a wide range of .NET development aspects in a business application context. My expertise includes all development stages, from initial analysis through design and execution. I am proficient in a variety of platforms and systems. In addition to my technical skills, I am a great communicator and team player. My ability to communicate well enables me to work effectively with clients to identify objectives and requirements for applications.</p>
 
-- 👨‍💻 You Can View My Portfolio Here [https://sivanesansubramani.github.io/SivanesanPortofolio/#home](https://sivanesansubramani.github.io/SivanesanPortofolio/#home)  </p>
+- 👨‍💻 You Can View My Portfolio Here [https://sivanesansubramani.github.io/SivanesanPortofolio/#home](https://sivanesansubramani.github.io/SivanesanPortofolio/#home) 
 
 
 
