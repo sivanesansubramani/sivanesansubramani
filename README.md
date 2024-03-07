@@ -6,11 +6,11 @@
 
 <h3>💻 I am Knowledged in below Technologies and Tools 💻</h3>
 
-  🌟 Web Application Development: With experience in ASP.NET MVC, ASP.NET and Angular I've successfully delivered responsive and user-friendly web applications, ensuring a positive user experience.
-  🌟 C# Proficiency: I bring a solid command of the C# language, enabling me to develop efficient and maintainable backend solutions.
-  🌟 Database Management: My proficiency in Microsoft SQL Server, MY SQL Workbench, expertise in Entity Framework and hands-on experience with Dapper have equipped me to handle complex data models seamlessly. This includes effective database management and streamlined data access.
-  🌟 Version Control and Collaboration: Proficient in Git, I prioritize efficient code collaboration and version control, fostering a collaborative development environment.
-  🌟 API Integration: Adept at developing RESTful APIs using ASP.NET Web API, I facilitate seamless integration with external services, contributing to enhanced system functionality.
+  🌟 Web Application Development: With experience in ASP.NET MVC, ASP.NET and Angular I've successfully delivered responsive and user-friendly web applications, ensuring a positive user experience. <br>
+  🌟 C# Proficiency: I bring a solid command of the C# language, enabling me to develop efficient and maintainable backend solutions.  <br>
+  🌟 Database Management: My proficiency in Microsoft SQL Server, MY SQL Workbench, expertise in Entity Framework and hands-on experience with Dapper have equipped me to handle complex data models seamlessly. This includes effective database management and streamlined data access.    <br>
+  🌟 Version Control and Collaboration: Proficient in Git, I prioritize efficient code collaboration and version control, fostering a collaborative development environment.   <br>
+  🌟 API Integration: Adept at developing RESTful APIs using ASP.NET Web API, I facilitate seamless integration with external services, contributing to enhanced system functionality.  <br>
 
   
 
