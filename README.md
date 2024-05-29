@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Hi 👋, I'm Sivanesan</h1>
 <h3 align="center">👨🏻‍💻 A passionate .Net Full Stack Developer 👨🏻‍💻</h3>
 <p>I am an Software Engineer with 1.5 years of Work experience in Microsoft Technologies mainly in C#, ASP.NET,.Net MVC, .Net Web API, Fronend Technologies, MY SQL Workbench and SQL Server with different domains like logistics and financialI have good exposure on creating Web applications and am involved in all phases of the projects like designing, developing, testing and deploying activities.</p>
